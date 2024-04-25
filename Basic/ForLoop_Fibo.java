@@ -7,7 +7,7 @@ public class ForLoop_Fibo {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-
+        int v = sc.nextInt();
         int[] F = new int[n + 1];
 
         F[0] = 0;
