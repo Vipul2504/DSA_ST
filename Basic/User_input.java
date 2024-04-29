@@ -9,6 +9,7 @@ public class User_input {
     @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        Scanner sc1 = new Scanner(System.in);
 
         // Initialize sum and count of input elements
         int sum = 0, count = 0;
