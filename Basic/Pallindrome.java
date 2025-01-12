@@ -9,7 +9,7 @@ public class Pallindrome {
     public static boolean isPalindrome(int x) {
         if(x < 0){
             return false;
-        }
+        } 
 
         long temp = x;
         long rev = 0;
